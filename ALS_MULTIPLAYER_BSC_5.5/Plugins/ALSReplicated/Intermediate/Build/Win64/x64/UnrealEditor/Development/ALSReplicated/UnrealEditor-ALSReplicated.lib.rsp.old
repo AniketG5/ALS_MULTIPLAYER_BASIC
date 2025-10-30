@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ALSReplicated.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\Module.ALSReplicated.cpp.obj"
+"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\ALSBaseCharacter.cpp.obj"
+"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\ALSCharacterMovementComponent.cpp.obj"
+"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\ALSReplicated.cpp.obj"
+"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\Default.rc2.res"
+/OUT:"D:\patreon projects\ALS_MULTIPLAYER_BSC\ALS_MULTIPLAYER_BSC_5.4\Plugins\ALSReplicated\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALSReplicated\UnrealEditor-ALSReplicated.lib"
