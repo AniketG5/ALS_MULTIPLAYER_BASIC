@@ -14,4 +14,6 @@ Key Features:
 
 ✅ Blueprint-Driven – Easy to customize without coding
 
+5.5 Project Opening problem fixed - https://youtu.be/BS5NLZhsbvU?si=dwmF-A_ll5Z4ePuE
+
 <img width="1280" height="720" alt="0011" src="https://github.com/user-attachments/assets/4014f80e-9412-4b85-8f57-8967fa8d69d4" />
